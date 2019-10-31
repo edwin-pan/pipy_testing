@@ -5,12 +5,12 @@ on: push
   #   types: [created]
 
 jobs:
-  print:
-    name: Hello World
-    runs-on: ubuntu-18.04
-    steps:
-      - name: Hello (.-.)
-        run: echo Hi
+#   print:
+#     name: Hello World
+#     runs-on: ubuntu-18.04
+#     steps:
+#       - name: Hello (.-.)
+#         run: echo Hi
   deploy:
     name: Build and publish Python 🐍 distributions 📦 to PyPI and TestPyPI
     runs-on: ubuntu-latest
