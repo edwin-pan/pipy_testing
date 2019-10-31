@@ -25,3 +25,5 @@ print("hopefully final")
 print("not final")
 
 print("last")
+
+print("last last")
