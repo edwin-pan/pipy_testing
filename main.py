@@ -11,3 +11,5 @@ print("build attempt 3")
 print("build attempt 4")
 
 print("another test")
+
+print("release test")
